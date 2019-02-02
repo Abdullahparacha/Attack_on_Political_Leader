@@ -1,6 +1,6 @@
 # Attack_on_Political_Leader
-Data Wrangling and Visualization
-Different types of attacks on political Leaders of pakistan. Through this dataset we gethered some insights.
+Data Wrangling and Visualization  
+Different types of attacks on political Leaders of pakistan. Through this dataset we get some information.
 1. Which Province has been attacked most
 2. Which city has been attacked most
 3. Target status against each province
